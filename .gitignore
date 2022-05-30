@@ -1,3 +1,6 @@
+# packages jar
+packages/*.jar
+
 # Target folder and everything in it
 target/
 
